@@ -116,9 +116,9 @@ tensorboard-data-server==0.7.2
 termcolor==3.2.0
 terminado==0.18.1
 tinycss2==1.4.0
-torch==2.5.1+cu121
-torchaudio==2.5.1+cu121
-torchvision==0.20.1+cu121
+torch
+torchaudio
+torchvision
 tornado==6.5.2
 tqdm==4.67.1
 traitlets==5.14.3
